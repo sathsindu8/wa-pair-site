@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.qr-box {
+    margin-top: 30px;
+    border: 2px dashed #444;
+    padding: 20px;
+    display: inline-block;
+}
